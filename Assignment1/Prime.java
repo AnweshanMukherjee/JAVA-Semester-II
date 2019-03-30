@@ -1,4 +1,5 @@
 //Question2
+
 class Prime{
     public static void main(String[] args) {
         int num = 1;
