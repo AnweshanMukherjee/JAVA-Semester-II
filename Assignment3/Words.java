@@ -1,4 +1,4 @@
-//Queestion7
+//Question7
 class Words{
     public static void main(String[] args) {
         String ar[] = {"Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
