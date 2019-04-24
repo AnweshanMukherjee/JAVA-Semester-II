@@ -1,6 +1,6 @@
 //Question7
 class Manager extends EmployeeModified{
-    String designation;
+    private String designation;
     Manager(String name, int age, int empID, String designation){
         super(name, age, empID);
         this.designation = designation;
